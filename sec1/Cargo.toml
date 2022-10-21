@@ -21,7 +21,7 @@ generic-array = { version = "0.14.4", default-features = false }
 
 # optional dependencies
 pkcs8 = { version = "=0.9.0-pre", optional = true, default-features = false, path = "../pkcs8" }
-serde = { version = "1.0.16", optional = true, default-features = false }
+serde = { version = "1.0.147", optional = true, default-features = false }
 subtle = { version = "2", optional = true, default-features = false }
 zeroize = { version = "1", optional = true, default-features = false }
 
